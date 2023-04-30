@@ -1,7 +1,0 @@
-## Interface: 100007
-## Title: Distance
-## Notes: Tracks distance travelled
-## Author: Fat daddy Maxwell
-## Version: 1.0
-
-distance.lua
